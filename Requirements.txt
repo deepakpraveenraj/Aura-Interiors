@@ -1,0 +1,7 @@
+PHP Interpreter
+Apache Web Server
+MySQL
+VS Code
+Composer
+phpMyAdmin
+XAMPP
